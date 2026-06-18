@@ -12,7 +12,7 @@ The add-on connects to the monitor over TCP, parses the push data stream (`:A=` 
 
 1. In Home Assistant go to **Settings → Add-ons → Add-on Store**
 2. Click **⋮ (three dots) → Repositories**
-3. Add `https://github.com/YOUR_USERNAME/ha-addon-km140f`
+3. Add `https://github.com/bootuz-dinamon/ha-addon-km140f`
 4. Find **Junctek KM140F** in the store and click **Install**
 
 ---
