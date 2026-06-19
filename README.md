@@ -2,6 +2,8 @@
 
 https://s.click.aliexpress.com/e/_c4MP4mrn
 
+BLE Scanner (fast) - https://github.com/bootuz-dinamon/Junctek-KM-F-Series-BLE-scanner-EspHome
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 TCP → MQTT bridge for the **Junctek KM140F** battery monitor connected via a WiFi module (port 8899).
